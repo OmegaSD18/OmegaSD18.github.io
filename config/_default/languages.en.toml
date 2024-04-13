@@ -15,9 +15,9 @@ title = "Soumya Dasgupta"
 
 [author]
   name = "Soumya Dasgupta"
-  image = "../assets/profile.jpg"
+  image = "../assets/profile2.jpg"
   headline = "Undergraduate mathematics student at Indian Statistical Institute"
-  bio = "I'm currently pursuing my bachelors in mathematics from Indian Statistical Institute, Bangalore. My interest lies in Algebraic Topology and Differential Geometry."
+  bio = "Undergraduate Mathematics Student."
   links = [
     { email = "mailto:soumya18vk@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },

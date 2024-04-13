@@ -2,6 +2,7 @@
 title: Gallery
 description: Memories that I can cherish.
 date: 2024-03-19
+showTableOfContents: false
 ---
 
 ## Bangalore 2023
