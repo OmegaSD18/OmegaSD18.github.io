@@ -10,7 +10,7 @@ date: 2024-03-18
 
 ## Hi, Soumya here!
 
-I'm currently a third year undergraduate student in mathematics at Indian Statistical Institute, Bangalore. My interests are in Algebraic Topology, Algebraic Geometry and Differential Geometry. 
+I'm currently a first year masters student in mathematics at Indian Statistical Institute, Kolkata. My interests are in Algebraic Topology and Differential Geometry, and I'm particularly interested in Stable Homotopy Theory.  
 
 The motivation behind this blog was to share my thoughts on mathematics and my experiences. I should thank Bikram for helping me setting up the website, particularly helping me setting up $\LaTeX$ without which this website wouldn't have been fruitful. 
 
@@ -19,6 +19,10 @@ The motivation behind this blog was to share my thoughts on mathematics and my e
 <!-- |   | {{< badge >}} Summer 2023 {{< /badge >}} |
 | --- | --- |
 | Hope it goes well. | -->
+| **Future Research Talent (FRT) at Australian National University (ANU), Canberra** | {{< badge >}} Summer 2024 {{< /badge >}} |
+| --------------------------------------- | ----------------- |
+| I did a reading project on _Equivariant Stable Homotopy Theory and KR Theory_ under Professor Vigleik Angeltveit. The objective of the project was to get an understanding of the slice spectral sequence, which was popularised by Hill, Hopkins and Ravenel in their proof of the Kervaire Invariant One Problem.| 
+
 
 | **Visiting Scientist Research Program (VSRP) at Tata Institute of Fundamental Research (TIFR), Mumbai** | {{< badge >}} Summer 2023 {{< /badge >}} |
 | --------------------------------------- | ----------------- |
